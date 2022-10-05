@@ -1,0 +1,22 @@
+{
+  "questions": [
+    {
+      "questionNumber":  1,
+      "question": "How much is there people around the world? ",
+      "answers": ["A. 7.500.000.000", "B. 700.000", "C. 9.000.000.000", "D. 8.000.000.000"],
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber":  2,
+      "question": "How much is 2+2*2? ",
+      "answers": ["A. 8", "B. 6", "C. 10", "D. 4"],
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber":  3,
+      "question": "Who was the first president of USA? ",
+      "answers": ["A. Donald Trump", "B. Abraham Lincoln", "C. George Washington", "D. John Adams"],
+      "correctAnswer": "C"
+    }
+  ]
+}
